@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey ! Je suis Salem Nk 👋
+## Développeur web fullstack
 
 <!--
 **SalNk/SalNk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
