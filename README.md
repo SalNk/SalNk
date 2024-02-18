@@ -4,8 +4,10 @@
 
 ## 💻⚡ Compétences
 * Langages de programmation : PHP, Javascript et HTML
-* Frameworks : React Js, Laravel, Tailwind Css et Bootstrap
+* Frameworks : React Js, Laravel, Tailwind Css, Bootstrap...
 * Mobile : React Native
+* Base de données : Mysql
+* Autres outils: Git, Netlify, Heroku, Vercel,...
 
 ```
 Faites moi confiance pour vous accompagner à la concrétisation de votre projet
