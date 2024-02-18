@@ -10,7 +10,7 @@
 * Autres outils: Git, Redux Toolkit, Netlify, Heroku, Vercel,...
 
 ```
-Faites moi confiance pour vous accompagner à la concrétisation de votre projet
+Faites moi confiance pour vous accompagner à la concrétisation de vos projets
 ```
 
 ## Contacts 💬
