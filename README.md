@@ -1,5 +1,15 @@
 # Hey ! Je suis Salem Nk 👋
-## Développeur web fullstack
+## 👨🏼‍💻 Développeur web fullstack 
+## 💻 Compétences
+### Langages de programmation 
+* PHP
+* Javascript
+
+### Frameworks
+* React Js
+* Laravel
+* Tailwind Css
+* Bootstrap
 
 <!--
 **SalNk/SalNk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
