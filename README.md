@@ -12,7 +12,7 @@ Faites moi confiance pour vous accompagner à la concrétisation de votre projet
 
 ## Contacts 💬
 Contactez moi pour démarrer une conversation et parler de vos besoins
-* Par mail : [salemnk02@gmail.com](mailto:salemnk02@gmail.com) 
+* Mail : [salemnk02@gmail.com](mailto:salemnk02@gmail.com) 
 * WhatsApp : [+243815229941](https://api.whatsapp.com/send?phone=0815229941) 
 * Facebook : [Salem NK](https://www.facebook.com/salemnk02/) 
 
