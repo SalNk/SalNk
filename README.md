@@ -4,10 +4,10 @@
 
 ## 💻⚡ Compétences
 * Langages de programmation : PHP, Javascript et HTML
-* Frameworks : React Js, Laravel, Tailwind Css, Bootstrap...
+* Frameworks : Laravel | React | Tailwind Css | Bootstrap
 * Mobile : React Native
 * Base de données : Mysql
-* Autres outils: Git, Redux Toolkit, Netlify, Heroku, Vercel,...
+* Autres outils: Git | FilamentPHP | Redux Toolkit | Netlify | Vercel
 
 ```
 Faites moi confiance pour vous accompagner à la concrétisation de vos projets
@@ -15,6 +15,7 @@ Faites moi confiance pour vous accompagner à la concrétisation de vos projets
 
 ## Contacts 💬
 Pour démarrer une conversation et parler de vos besoins contactez moi
+* Portfolio : https://salemnkwey.vercel.app
 * Mail : [salemnk02@gmail.com](mailto:salemnk02@gmail.com) 
 * WhatsApp : [+243815229941](https://api.whatsapp.com/send?phone=243815229941) 
 * Facebook : [Salem NK](https://www.facebook.com/salemnk02/) 
