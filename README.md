@@ -3,7 +3,7 @@
 ## 👨🏼‍💻 Développeur web fullstack 
 
 ## 💻⚡ Compétences
-* Langages de programmation : PHP, Javascript et HTML
+* Langages de programmation : PHP | Javascript
 * Frameworks : Laravel | React | Tailwind Css | Bootstrap
 * Mobile : React Native
 * Base de données : Mysql
